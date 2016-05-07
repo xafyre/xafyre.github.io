@@ -1,0 +1,33 @@
+body {
+	background-color: #ffccb3; 
+	background-image: url("images/bg_image.gif");
+	background-size: 100px 100px;
+}
+
+img {
+    position: absolute;
+    top: 0; bottom:0; left: 0; right:0;
+    margin: auto;
+    border-style: double;
+    border-width: 10px;
+    border-color: #990066;
+}
+
+h1 {
+	font-style: italic;
+	font-size: 60px;
+	color: #ff3333;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+	font-family: "Book Antiqua"
+	color: #2929a3;
+	font-weight: 30px
+}
+
+#slogan {
+	background-color: #e6eeff;
+}
+
