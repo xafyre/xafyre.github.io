@@ -1,3 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great);
+@import url(https://fonts.googleapis.com/css?family=Playball);
+
 body {
 	background-color: #ffccb3; 
 	background-image: url("images/bg_image.gif");
@@ -14,6 +17,7 @@ img {
 }
 
 h1 {
+	font-family: 'Fredericka the Great', cursive;
 	font-style: italic;
 	font-size: 60px;
 	color: #ff3333;
@@ -24,6 +28,7 @@ p {
 	text-align: center;
 	font-family: "Book Antiqua"
 	color: #2929a3;
+	font-family: 'Playball', cursive;
 }
 
 #slogan {
